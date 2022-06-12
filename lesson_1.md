@@ -43,7 +43,7 @@ motion -- movement across space over time - distace over time -- meter/second
 * Function and graph
     * s(t)  y(x) -- one measurement changes agains another measurement -- physical function
     * s = v*t
-    * v = s/t
+    * v = $\frac{\Delta s}{\Delta t}$
     * t = s/v
     * a = $\frac{\Delta v}{\Delta t}$
     * what if v is not constant
