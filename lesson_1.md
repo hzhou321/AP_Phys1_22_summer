@@ -40,7 +40,7 @@ motion -- movement across space over time - distace over time -- meter/second
                    100 meter/min = 100 * 1meter/60 = 1.67 meter/sec
        -- speed -- veloctiy - meter/second
        
-Function and graph
+* Function and graph
     * s(t)  y(x) -- one measurement changes agains another measurement -- physical function
     * s = v*t
     * v = s/t
