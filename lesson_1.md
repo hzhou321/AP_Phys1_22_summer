@@ -45,7 +45,7 @@ Function and graph
     * s = v*t
     * v = s/t
     * t = s/v
-    * a = $\frac{\Deltav}{\Delta t}$
+    * a = $\frac{\Delta v}{\Delta t}$
     * what if v is not constant
     * 1, 2, 3, ...many, 
     - 0
