@@ -1,5 +1,8 @@
 # Han Academy - AP Physics 1 - 2022 summer
 
+Teacher: Hui Zhou
+Email:   hzhou321@gmail.com
+
 * Lesson 1 - 6/12
     Intro & Kinematics
 * Lesson 2 - 6/19
