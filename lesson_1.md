@@ -41,13 +41,13 @@ motion -- movement across space over time - distace over time -- meter/second
        -- speed -- veloctiy - meter/second
        
 Function and graph
-    - s(t)  y(x) -- one measurement changes agains another measurement -- physical function
-    - s = v*t
-    - v = s/t
-    - t = s/v
-    - a = $\delta$v/$\delta$t
-    - what if v is not constant
-    - 1, 2, 3, ...many, 
+    * s(t)  y(x) -- one measurement changes agains another measurement -- physical function
+    * s = v*t
+    * v = s/t
+    * t = s/v
+    * a = $\Delta$v/$\Delta$t
+    * what if v is not constant
+    * 1, 2, 3, ...many, 
     - 0
     - negative number
 Plot -- 
