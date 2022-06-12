@@ -25,22 +25,23 @@ Quantifying makes things simple
   * To *blindly* apply 2nd-grade math
  
 * Space - distance -  (2nd grade math) ruler - inches, centimeters, meters, miles, kilometers -- standard unit is meter
-      - Direction -- (7th grade math) 
-      - paper is 2D, our world is 3D -- dimensions - XYZ - orthgonality -- perpendicular
-          -- west and east are not the same direction, but the same dimension
-          -- west and up are two different dimension
-          -- north and south are another dimension
-          -- movement is orthogonal directions are not correlated 
-          -- we have rototaional symmetry!
-     - dimension, allows you to go around, but limited
+      * Direction -- (7th grade math) 
+      * paper is 2D, our world is 3D -- dimensions - XYZ - orthgonality -- perpendicular
+          * west and east are not the same direction, but the same dimension
+          * west and up are two different dimension
+          * north and south are another dimension
+          * movement is orthogonal directions are not correlated 
+          * we have rototaional symmetry!
+     * dimension, allows you to go around, but limited
      
 * motion -- movement across space over time - distace over time -- meter/second
-       -- 7 mile/hour,  100 meter/min
-       -- convert: 7 mile/hour = 7 * 1mile/1hour = 7 * 1610meter/3600 = 3.13 meter/sec
+       * 7 mile/hour,  100 meter/min
+       * convert: 7 mile/hour = 7 * 1mile/1hour = 7 * 1610meter/3600 = 3.13 meter/sec
                    100 meter/min = 100 * 1meter/60 = 1.67 meter/sec
-       -- speed -- veloctiy - meter/second
+       * speed -- veloctiy - meter/second
        
-* Function and graph
+### Function and graph
+* Equations  
     * s(t)  y(x) -- one measurement changes agains another measurement -- physical function
     * s = v*t
     * v = $\frac{\Delta s}{\Delta t}$
@@ -51,7 +52,7 @@ Quantifying makes things simple
     * 1, 2, 3, ...many, 
     - 0
     - negative number
-Plot -- 
+* Plot -- 
   * constant -- no motion - staic
   * linear -- constant velocity
   * curve  -- quadratic curve -- velocity is changing - acceleration
