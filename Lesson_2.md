@@ -5,5 +5,5 @@
 2. s = Sum v(t) * dT
 
 Case 1. Constant Velocity
-     S = V * dT - on the graph - * Area of Rectangle *
+     S = V * dT - on the graph - _Area of Rectangle_
      
