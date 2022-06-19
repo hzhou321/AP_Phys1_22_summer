@@ -31,3 +31,4 @@
 
 ## Trignometry
 ![image](https://user-images.githubusercontent.com/71202720/174487194-c35f022c-642d-4909-acae-61d6379494c0.png)
+* Concept 1. Circle - made of all equivalent points
