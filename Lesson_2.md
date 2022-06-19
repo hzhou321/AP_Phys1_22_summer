@@ -32,3 +32,29 @@
 ## Trignometry
 ![image](https://user-images.githubusercontent.com/71202720/174487194-c35f022c-642d-4909-acae-61d6379494c0.png)
 * Concept 1. Circle - made of all equivalent points
+* Concept 2. Cosine is a projection
+* Concept 3: Pythagras relationship: a^2 + b^2 = c^2
+
+# Dynamics
+* Kinematic is about how of motion
+* Dynamics is about why
+* Newton's law
+
+1. Newton's law #1 - motion does not change unless there is interaction, effort -- Force
+2. Newton's law #2 - F = m a, a = F/m
+    *  M - Mass - describes the amount of stuff -- kg
+    *  a - acceleration - the *change* in motion -- m/s^2
+    *  F - Force - is defined as the amount of change is motion times the mass - kg m/s^2 - Newton
+3. Newton's law #3 - F = -F' --- A force is between two objects
+
+* Example 1 - corner of table
+    ![image](https://user-images.githubusercontent.com/71202720/174489329-6f8847b3-f6a3-4fcb-b8d2-2c06a08499d7.png)
+    * T - tension force -- the interaction between a string and object
+        * T is constant along the string
+    * G - Gravity force -- weight - mg  -- g = 10m/s^2
+    * N - Normal force -- it is a reactive force
+    * f - Friction force -- it is reactive to threshold, then constant
+    * a_x = (T-f)/M, a_y = (G - N) /M = 0 (G==N)
+
+* Example 2 - Slope
+
