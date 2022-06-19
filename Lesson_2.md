@@ -57,4 +57,9 @@
     * a_x = (T-f)/M, a_y = (G - N) /M = 0 (G==N)
 
 * Example 2 - Slope
+* ![image](https://user-images.githubusercontent.com/71202720/174489522-f004b2ba-f41b-4d30-8de3-493824b74854.png)
+    * G  = Mg
+    * N = ? hint: it cancels the force that goind into the surface, from G * cos(a)
+    * net force pushing down the slope -- G * sin(a)
+    * a = G * sin(a) / M
 
