@@ -10,6 +10,9 @@
 
 * $ a = \Delta v_x / \Delta t= v \theta / (r \theta / v) = \frac{v^2}{r} $
 
+* The force to make circular motion:
+  $ T = m a = m \frac{v^2}{r}$
+
 ## Kinematics of circular motion
 * $a = \frac{v^2}{r} $
 * Angular velocity is a better metric for circular motion
