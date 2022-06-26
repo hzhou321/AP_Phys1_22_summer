@@ -2,4 +2,6 @@
 
 * $ F = m a = m * \Delta v/\Delta t $
 
-* $\Delta v_x = v \sin \theta$
+* $\Delta v_x = v \sin \theta$ 
+* $ a = \Delta v_x / \Delta t $
+* 
