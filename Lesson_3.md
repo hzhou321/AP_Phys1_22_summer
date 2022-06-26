@@ -25,3 +25,4 @@
 * $a= r \alpha $
 * $ F = m a = m r \alpha $
 * $ F \times r = m r^2 \alpha $
+* $\tau = I \alpha$
