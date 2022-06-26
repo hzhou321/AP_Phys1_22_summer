@@ -19,3 +19,5 @@
 ## Dynamics of circular motion
 * $F = m a $
 * $v = r \omega = r \frac{\Delta \theta}{\Delta t}$ 
+* $a= r \alpha $
+* $ F = m a = m r \alpha $
