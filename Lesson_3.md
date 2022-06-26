@@ -7,3 +7,5 @@
 * $ \Delta t = s / v = r \theta / v $
 
 * When angle is very small, $\sin \theta = \theta = \tan \theta$
+
+* $ a = \Delta v_x / \Delta t= v \theta / (r \theta / v) $
