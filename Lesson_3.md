@@ -50,3 +50,9 @@ $ I = \Sigma m_i r_i^2$
 * $ R \alpha = a $
 * $ Mg - T = M a = M R \alpha$
 * $ TR = I \alpha = \frac{1}{2} M R^2 \alpha $
+
+* Balancing a rod
+* ![image](https://user-images.githubusercontent.com/71202720/175821282-9ef28de5-f3e7-4e95-a4aa-7588d54943c1.png)
+
+* $\Sigma \tau = 0 $
+* $\Sigma F = 0 $
