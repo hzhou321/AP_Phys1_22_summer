@@ -24,3 +24,4 @@
 * $v = r \omega = r \frac{\Delta \theta}{\Delta t}$ 
 * $a= r \alpha $
 * $ F = m a = m r \alpha $
+* $ F \times r = m r^2 \alpha $
