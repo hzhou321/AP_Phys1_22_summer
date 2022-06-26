@@ -40,3 +40,12 @@ $ I = \Sigma m_i r_i^2$
 * $T \sin\theta = mg \sin\theta / \cos\theta = m \frac{v^2}{r}$
 * $ F = m a $
 * $ v = \sqrt{r g \sin\theta / \cos\theta}$
+
+* Cylinder rolling down
+* ![image](https://user-images.githubusercontent.com/71202720/175820760-31bc820e-e564-400e-9f8f-5707608d4619.png)
+
+* $ Mg - T = M a $ 
+* $ TR = I \alpha $
+* $ R \omega = v $
+* $ R \alpha = a $
+* $ Mg - T = M a = M R \alpha = I \alpha = \frac{1}{2} M R^2 \alpha $
