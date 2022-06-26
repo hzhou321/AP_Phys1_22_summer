@@ -8,4 +8,4 @@
 
 * When angle is very small, $\sin \theta = \theta = \tan \theta$
 
-* $ a = \Delta v_x / \Delta t= v \theta / (r \theta / v) $
+* $ a = \Delta v_x / \Delta t= v \theta / (r \theta / v) = \frac{v^2}{r} $
