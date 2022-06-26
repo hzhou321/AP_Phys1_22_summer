@@ -1,4 +1,5 @@
 # Lesson 3 - Rotations - 6/26/2022
+![image](https://user-images.githubusercontent.com/71202720/175822007-92d48111-42ef-4197-8f52-4c39dbc1ae9b.png)
 
 * $ F = m a = m * \Delta v/\Delta t $
 
