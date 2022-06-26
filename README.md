@@ -8,13 +8,13 @@ Email:   hzhou321@gmail.com
 * Lesson 2 - 6/19
     Dynamics
 * Lesson 3 - 6/26
-    Work and Energy
+    Rotations
 * Lesson 4 - 7/10
     Momentum
 * Lesson 5 - 7/17
-    Rotation
+    Work and Energy
 * Lesson 6 - 7/24
-    Torque
+    TBD
 * Lesson 7 - 7/31
     Oscillation
 * Lesson 8 - 8/7
