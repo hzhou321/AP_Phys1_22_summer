@@ -17,5 +17,5 @@
 * $\alpha = \Delta \omega / \Delta t$
 
 ## Dynamics of circular motion
-* F = m a $
-* v = r \omega = r \frac{\Delta \theta}{\Delta t}$ 
+* $F = m a $
+* $v = r \omega = r \frac{\Delta \theta}{\Delta t}$ 
