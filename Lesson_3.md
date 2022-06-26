@@ -48,4 +48,5 @@ $ I = \Sigma m_i r_i^2$
 * $ TR = I \alpha $
 * $ R \omega = v $
 * $ R \alpha = a $
-* $ Mg - T = M a = M R \alpha = I \alpha = \frac{1}{2} M R^2 \alpha $
+* $ Mg - T = M a = M R \alpha$
+* $ TR = I \alpha = \frac{1}{2} M R^2 \alpha $
