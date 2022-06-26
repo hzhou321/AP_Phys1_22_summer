@@ -15,3 +15,7 @@
 * Angular velocity is a better metric for circular motion
 * $\omega = \Delta \theta / \Delta t$
 * $\alpha = \Delta \omega / \Delta t$
+
+## Dynamics of circular motion
+* F = m a $
+* v = r \omega = r \frac{\Delta \theta}{\Delta t}$ 
