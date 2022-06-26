@@ -36,3 +36,5 @@ $ I = \Sigma m_i r_i^2$
 * ball on a string
 *![image](https://user-images.githubusercontent.com/71202720/175820310-8fa9f47f-a482-4536-9afa-3523313bb873.png)
 * $ G = T \cos\theta$
+* $T = G / \cos\theta$
+* $T \sin\theta = G \sin\theta / \cos\theta $
