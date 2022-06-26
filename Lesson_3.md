@@ -14,7 +14,7 @@
   $ T = m a = m \frac{v^2}{r}$
 
 ## Kinematics of circular motion
-* $a = \frac{v^2}{r} $
+* $a = \frac{v^2}{r} $ -- *REMEMBER*
 * Angular velocity is a better metric for circular motion
 * $\omega = \Delta \theta / \Delta t$
 * $\alpha = \Delta \omega / \Delta t$
