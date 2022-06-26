@@ -26,3 +26,7 @@
 * $ F = m a = m r \alpha $
 * $ F \times r = m r^2 \alpha $
 * $\tau = I \alpha$
+### Torque
+$\tau = F \times r$
+### Rotational Inertia (as mass is the linear inertia)
+$I = m r^2$
