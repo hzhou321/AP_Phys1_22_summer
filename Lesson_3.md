@@ -19,7 +19,7 @@
 * $\omega = \Delta \theta / \Delta t$
 * $\alpha = \Delta \omega / \Delta t$
 
-## Dynamics of circular motion
+## Dynamics of circular motion (change in rotational speed)
 * $F = m a $
 * $v = r \omega = r \frac{\Delta \theta}{\Delta t}$ 
 * $a= r \alpha $
