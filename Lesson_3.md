@@ -12,3 +12,5 @@
 
 ## Kinematics of circular motion
 * $a = \frac{v^2}{r} $
+* Angular velocity is a better metric for circular motion
+* $\omega = \Delta theta / \Delta t$
