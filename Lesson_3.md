@@ -33,3 +33,6 @@ $I = m r^2$ or more precisely --
 $ I = \Sigma m_i r_i^2$
 
 ## So Some Problems
+* ball on a string
+*![image](https://user-images.githubusercontent.com/71202720/175820310-8fa9f47f-a482-4536-9afa-3523313bb873.png)
+* $ G = T \cos\theta$
