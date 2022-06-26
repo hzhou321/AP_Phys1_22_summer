@@ -31,3 +31,5 @@ $\tau = F \times r$
 ### Rotational Inertia (as mass is the linear inertia)
 $I = m r^2$ or more precisely --
 $ I = \Sigma m_i r_i^2$
+
+## So Some Problems
