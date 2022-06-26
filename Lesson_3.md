@@ -39,3 +39,4 @@ $ I = \Sigma m_i r_i^2$
 * $T = G / \cos\theta$
 * $T \sin\theta = mg \sin\theta / \cos\theta = m \frac{v^2}{r}$
 * $ F = m a $
+* $ v = \sqrt{r g \sin\theta / \cos\theta}$
