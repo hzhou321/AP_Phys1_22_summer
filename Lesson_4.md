@@ -16,3 +16,4 @@
 
 * $F(t) = m * \frac{\Delta v}{\Delta t}$
 * $F(t)*\Delta t = m * \Delta v = \Delta (mv) = \Delta p$
+* _The Total of momentum is constant_
