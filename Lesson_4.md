@@ -15,4 +15,4 @@
 * A transactional view takes time out of the picture
 
 * $F(t) = m * \frac{\Delta v}{\Delta t}$
-* $F(t)*\Delta t = m * \Delta v$
+* $F(t)*\Delta t = m * \Delta v = \Delta (mv) = \Delta p$
