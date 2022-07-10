@@ -14,7 +14,7 @@ Email:   hzhou321@gmail.com
 * Lesson 5 - 7/17
     Work and Energy
 * Lesson 6 - 7/24
-    TBD
+    Review of Exercises
 * Lesson 7 - 7/31
     Oscillation
 * Lesson 8 - 8/7
