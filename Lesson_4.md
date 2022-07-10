@@ -29,3 +29,18 @@
     * ![image](https://user-images.githubusercontent.com/71202720/178150461-13be5d7e-ca5f-41ed-b6e7-88222b3b9bac.png)
     * F = - k d  (d as in Displacement)
     *  k  is the spring constant
+
+## Problems
+* mv = F * t
+* 2mv = F * ?
+
+* mv --> (m+M) v' --> v' = m/(m+M) v -> postpone to after energy
+
+* m1 * v1 + m2 * v2 == (m1+m2) * v',  what is v'
+* 100 * 8 - 75 * 6  = (100 + 75) * v', what is v'?
+
+* mv  = (m+2m) v' , v' = ?
+
+* 5 * 0.2 + 7 * v' == 0, v' = ?
+
+* Area of a trapsoid: (a + b) / 2 * h --> (5 + 24) / 2 * 4 = 
