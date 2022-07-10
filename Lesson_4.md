@@ -26,4 +26,4 @@
 * friction force -- $f = \mu N$  -- this is one of the *empirical* formula
    * $\mu$ is the friction coefficient
 * Spring force
-![image](https://user-images.githubusercontent.com/71202720/178150461-13be5d7e-ca5f-41ed-b6e7-88222b3b9bac.png)
+    * ![image](https://user-images.githubusercontent.com/71202720/178150461-13be5d7e-ca5f-41ed-b6e7-88222b3b9bac.png)
