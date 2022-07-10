@@ -23,4 +23,5 @@
 * Gravity force -- aprox. constant, always downward, G = mg
 * Normal force -- always opposite and cancels the other force
    * Note: this is different for force and counter-force
-* friction force -- $f = \mu N$
+* friction force -- $f = \mu N$  -- this is one of the *empirical* formula
+   * $\mu$ is the friction coefficient
