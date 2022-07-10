@@ -2,7 +2,7 @@
 
 * p = mv
 
-## understanding
+## Momentum
 
 * F = m a = m * $\frac{\Delta v}{\Delta t}$
 * Newton's 2nd law describes the details of the motion -- at every moment
@@ -17,3 +17,10 @@
 * $F(t) = m * \frac{\Delta v}{\Delta t}$
 * $F(t)*\Delta t = m * \Delta v = \Delta (mv) = \Delta p$
 * _The Total of momentum is constant_
+
+## Force in a spring
+* Constant active force (a person is pulling/pushing something)
+* Gravity force -- aprox. constant, always downward, G = mg
+* Normal force -- always opposite and cancels the other force
+   * Note: this is different for force and counter-force
+* friction force -- $f = \miu N$
