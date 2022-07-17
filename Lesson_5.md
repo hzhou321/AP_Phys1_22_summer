@@ -5,5 +5,5 @@
     * $\vec{F} = m \vec{a}$
     * $F_x = m a_x$, $F_y = m a_y$, $F_z = m a_y$
 * Infinitesimal -- dx, dt 
-    * $a = dv/dt$  - $a = \Delta v / \Delta t$
-    * $F = m dv/dt = d(mv)/dt = dp/dt$
+    * $\vec{a} = d\vec{v}/dt$  - $\vec{a} = \Delta \vec{v}/ \Delta t$
+    * $\vec{F} = m d\vec{v}/dt = d(m\vec{v})/dt = d\vec{p}/dt$
