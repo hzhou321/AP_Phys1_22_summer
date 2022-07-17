@@ -2,4 +2,5 @@
 
 * $F = m a$ 
 * Vector and scalar
-* $\vec{F} = m \vec{a}$
+    * $\vec{F} = m \vec{a}$
+    * $F_x = m a_x$, $F_y = m a_y$, $F_z = m a_y$
