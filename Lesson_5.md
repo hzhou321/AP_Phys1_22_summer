@@ -28,4 +28,4 @@
     * $F ds = d(\frac{1}{2} m v^2)$ -- *
     * $\vec{F} \cdot d\vec{s} = d(\frac{1}{2} m |\vec{v}|^2)$
     * *work* = change in *kinetic energy*
-    * K = \frac{1}{2} m v^2$
+    * $K = \frac{1}{2} m v^2$
