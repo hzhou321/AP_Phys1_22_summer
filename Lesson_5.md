@@ -34,3 +34,4 @@
     * $g = 10 m/s^2$
     * Potential energy in constant gravity field
     * $P_h = mgh$
+    * Meaning: An object at height $h$ *potentially* can do work of $mgh$
