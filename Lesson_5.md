@@ -9,3 +9,5 @@
     * $\vec{F} = m d\vec{v}/dt = d(m\vec{v})/dt = d\vec{p}/dt$
 * Momentum
     * $\vec{p} = m \vec{v}$
+    * momentum is the fundamental concept behind motion
+    * force is the change of momentum per unit of time
