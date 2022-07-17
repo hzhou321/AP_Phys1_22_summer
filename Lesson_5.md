@@ -16,6 +16,6 @@
     * *Impulse* = change of momentum
 * Vector math
     * Pythagoras Theorem - $a^2 + b^2 = c^2$
-    * $l^2 = l_x^2 + l_y^2 + l_z^2$
+    * $l^2 = l_x^2 + l_y^2 + l_z^2 = $l^2 = |\vec{l}|^2 = \vec{l} \cdot \vec{l}$
 * Work and Energy
     * $F = m dv/dt$
