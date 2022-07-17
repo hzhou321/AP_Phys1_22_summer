@@ -11,6 +11,6 @@
     * $\vec{p} = m \vec{v}$
     * momentum is the fundamental concept behind motion
     * force is the change of momentum per unit of time
-    * $\vec{F} = d\vec{p}/dt$
-    * $\vec{F}dt = d\vec{p}$
+    * $\vec{F} = d\vec{p}/dt$  -- Newton's 2nd law
+    * $\vec{F}dt = d\vec{p}$   -- a slight transformation
     * *Impulse* = change of momentum
