@@ -8,4 +8,4 @@
     * $\vec{a} = d\vec{v}/dt$  - $\vec{a} = \Delta \vec{v}/ \Delta t$
     * $\vec{F} = m d\vec{v}/dt = d(m\vec{v})/dt = d\vec{p}/dt$
 * Momentum
-    *\vec{p} = m \vec{v}$
+    *$\vec{p} = m \vec{v}$
