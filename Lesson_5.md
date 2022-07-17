@@ -35,3 +35,9 @@
     * Potential energy in constant gravity field
     * $P_h = mgh$
     * Meaning: An object at height $h$ *potentially* can do work of $mgh$
+    * Generalize: A potential energe is a energy based on positions 
+    * similar to: A kinetic energy is an energy based on motion
+* Energy conservation in gravity *field*
+    * $E = K + P$
+    * The total energy is conserved, i.e. a constant
+    * In general, when we account for all the energy forms, the total energy is always conserved -- *across the universe*
