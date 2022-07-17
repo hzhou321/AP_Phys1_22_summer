@@ -48,5 +48,5 @@
 
 * Exercises
 * ![image](https://user-images.githubusercontent.com/71202720/179406164-d1ed42ef-f35f-4bd0-a18d-871cd02b8429.png)
-* $E_total = m g h = m * 10 * 1 = 1/2 * m * v^2$
+* $E_{total} = m g h = m * 10 * 1 = 1/2 * m * v^2$
 * $ v = ?$
