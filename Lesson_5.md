@@ -22,3 +22,7 @@
     * $\vec{A} \cdot \vec{B} = A_x * B_x + A_y * B_y + A_z * B_z = |A| * |B| * \cos(\theta)$
 * Work and Energy
     * $F = m dv/dt$
+    * $F dt = m dv$
+    * $F vdt = m vdv$
+    * $F ds = m d(1/2 v^2)$
+    * $F ds = d(\frac{1}{2} m v^2)$
