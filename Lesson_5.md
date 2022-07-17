@@ -29,6 +29,10 @@
     * $\vec{F} \cdot d\vec{s} = d(\frac{1}{2} m |\vec{v}|^2)$
     * *work* = change in *kinetic energy*
     * $K = \frac{1}{2} m v^2$
+* Power
+    * work per unit time 
+    * unit -- Watt
+    * Energy = power * time --> kwh
 * Unit of energy
     * F = ma -> kg m/s^2 -> N
     * F * s -> kg m/s^2 * m -> kg m^2/s^2 -> J
