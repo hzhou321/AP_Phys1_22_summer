@@ -19,6 +19,6 @@
     * $l^2 = l_x^2 + l_y^2 + l_z^2$
     * $l^2 = |\vec{l}|^2 = \vec{l} \cdot \vec{l}$
     * *dot* operation -- two vectors multiply each other to get a scalar
-    * $\vec{A} \cdot \vec{B} = A_x*B_x + A_y*B_y + A_z*B_z = |A| * |B| * \cos(\theta)$
+    * $\vec{A} \cdot \vec{B} = A_x * B_x + A_y * B_y + A_z * B_z = |A| * |B| * \cos(\theta)$
 * Work and Energy
     * $F = m dv/dt$
