@@ -29,6 +29,10 @@
     * $\vec{F} \cdot d\vec{s} = d(\frac{1}{2} m |\vec{v}|^2)$
     * *work* = change in *kinetic energy*
     * $K = \frac{1}{2} m v^2$
+* Unit of energy
+    * F = ma -> kg m/s^2 -> N
+    * F * s -> kg m/s^2 * m -> kg m^2/s^2 -> J
+    * 1/2 m v^2 -> kg m^2/s^2 -> J
 * Potential energe
     * potential energy in height
     * $g = 10 m/s^2$
@@ -41,3 +45,6 @@
     * $E = K + P$
     * The total energy is conserved, i.e. a constant
     * In general, when we account for all the energy forms, the total energy is always conserved -- *across the universe*
+
+* Exercises
+* ![image](https://user-images.githubusercontent.com/71202720/179406164-d1ed42ef-f35f-4bd0-a18d-871cd02b8429.png)
