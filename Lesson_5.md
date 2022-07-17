@@ -18,5 +18,6 @@
     * Pythagoras Theorem - $a^2 + b^2 = c^2$
     * $l^2 = l_x^2 + l_y^2 + l_z^2$
     * $l^2 = |\vec{l}|^2 = \vec{l} \cdot \vec{l}$
+    * *dot* operation -- two vectors multiply each other to get a scalar
 * Work and Energy
     * $F = m dv/dt$
