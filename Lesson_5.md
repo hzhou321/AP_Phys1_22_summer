@@ -29,3 +29,8 @@
     * $\vec{F} \cdot d\vec{s} = d(\frac{1}{2} m |\vec{v}|^2)$
     * *work* = change in *kinetic energy*
     * $K = \frac{1}{2} m v^2$
+* Potential energe
+    * potential energy in height
+    * $g = 10 m/s^2$
+    * Potential energy in constant gravity field
+    * $P_h = mgh$
