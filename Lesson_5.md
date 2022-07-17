@@ -14,3 +14,8 @@
     * $\vec{F} = d\vec{p}/dt$  -- Newton's 2nd law
     * $\vec{F}dt = d\vec{p}$   -- a slight transformation
     * *Impulse* = change of momentum
+* Vector math
+    * Pythagoras Theorem - $a^2 + b^2 = c^2$
+    * $l^2 = l_x^2 + l_y^2 + l_z^2$
+* Work and Energy
+    * $F = m dv/dt$
