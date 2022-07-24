@@ -21,3 +21,5 @@
 * A *field* asserts force at different position
 * $E_{total} = E_{kinetic} + E_{potential}$
 
+## Rotation
+* $\tau=\Sum{\vec{f} \cross \vec{r}}$
