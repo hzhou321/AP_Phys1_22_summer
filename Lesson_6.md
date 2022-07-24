@@ -12,4 +12,7 @@
 * $W = \frac{1}{2}kx^2$
 * $K = \frac{1}{2}mv^2$
 * $v = \sqrt{\frac{k}{m}}x$
+### Conservation of energy in spring
+* Spring Pontential Energy
+* $P_{spring} = \frac{1}{2}kx^2$
 
