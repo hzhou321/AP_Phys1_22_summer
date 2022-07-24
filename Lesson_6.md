@@ -27,3 +27,5 @@
 ### Angular momentum
 * $\vec{L} = \Sigma{m\vec{v} \times \vec{r}} = I\vec{\omega}$
 * $\tau = \Delta \vec{L}$
+### The equivalent of Newton's first law -- The conservation of angular momentum 
+* When $\tau$ is `0`, the $\vec{L}$ does not change
