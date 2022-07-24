@@ -25,6 +25,8 @@
 * $\tau=\Sigma{\vec{f} \times \vec{r}}$
 * $\tau = I \alpha$
 * $I = \Sigma {mr^2}$
+* ![image](https://user-images.githubusercontent.com/71202720/180653988-40eed6e1-39d6-447e-ad75-a6fdd8646eed.png)
+
 ### Angular momentum
 * $\vec{L} = \Sigma{m\vec{v} \times \vec{r}} = I\vec{\omega}$
 * $\tau = \Delta \vec{L}$
