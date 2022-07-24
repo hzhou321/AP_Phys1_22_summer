@@ -14,5 +14,5 @@
 * $v = \sqrt{\frac{k}{m}}x$
 ### Conservation of energy in spring
 * Spring Pontential Energy
-* $P_{spring} = \frac{1}{2}kx^2$
+* $P_{spring} = \frac{1}{2}kx^2$  (memorize)
 
