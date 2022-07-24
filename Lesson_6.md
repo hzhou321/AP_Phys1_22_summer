@@ -32,3 +32,6 @@
 * $\tau = \Delta \vec{L}$
 ### The equivalent of Newton's first law -- The conservation of angular momentum 
 * When $\tau$ is `0`, the $\vec{L}$ does not change
+### Example of Earth
+* ![image](https://user-images.githubusercontent.com/71202720/180654275-eb082bc4-9a8b-44a1-983a-82a08a001bbe.png)
+
