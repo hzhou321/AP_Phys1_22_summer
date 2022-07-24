@@ -11,5 +11,5 @@
 * $W=1/2 (kx) (x)$
 * $W = \frac{1}{2}kx^2$
 * $K = \frac{1}{2}mv^2$
-* 
+* $v = \sqrt{\frac{k}{m}}x$
 
