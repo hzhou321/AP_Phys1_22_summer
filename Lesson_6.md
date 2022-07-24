@@ -34,4 +34,8 @@
 * When $\tau$ is `0`, the $\vec{L}$ does not change
 ### Example of Earth
 * ![image](https://user-images.githubusercontent.com/71202720/180654275-eb082bc4-9a8b-44a1-983a-82a08a001bbe.png)
-* $L_{orb} = MR^2 = ( 6 \times 10^{24}) \times (150 \times 10^9)^2 =  1.35 \times 10^{47) kg m^2$
+* $\omega_{orb} = 6.28 / (365 * 24 * 3600) = 2 \times 10^{-7}$
+* $L_{orb} = I\omega = MR^2 \times \omega = ( 6 \times 10^{24}) \times (150 \times 10^9)^2 \times 2 \times 10^{-7} =  2.7 \times 10^{40) kg m^2$
+* $\omega_{rot} = 6.28 / (24 * 3600) = 7 \times 10^{-5} $
+* $L_{ort} = I\omega = 2/5 M R^2 \times \omega = 0.4 * 6 \times 10^{24} \times (6400)^2 \times 7 \times 10^{-5} = 1 \times 10^{27} kg m^2$
+* $L_{
