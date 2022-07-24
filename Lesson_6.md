@@ -24,4 +24,6 @@
 ## Rotation
 * $\tau=\Sigma{\vec{f} \times \vec{r}}$
 * $\tau = I \alpha$
+### Angular momentum
 * $\vec{L} = \Sigma{m\vec{v} \times \vec{r}} = I\vec{\omega}$
+* $\tau = \Delta \vec{L}$
