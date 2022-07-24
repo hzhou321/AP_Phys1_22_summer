@@ -5,5 +5,7 @@
 ### Hook's law
 * $F = -kx$
 ### The Kinetic Energy and Potential Energy in a spring system
+* Work = change in Kinetic Energy
 * $F \Delta x = \Delta(\frac{1}{2}mv^2)$
+* Starting at $x=-4$ to $x=0$, how much work does the spring do?
 
