@@ -38,4 +38,7 @@
 * $L_{orb} = I\omega = MR^2 \times \omega = ( 6 \times 10^{24}) \times (150 \times 10^9)^2 \times 2 \times 10^{-7} =  2.7 \times 10^{40) kg m^2$
 * $\omega_{rot} = 6.28 / (24 * 3600) = 7 \times 10^{-5} $
 * $L_{ort} = I\omega = 2/5 M R^2 \times \omega = 0.4 * 6 \times 10^{24} \times (6400)^2 \times 7 \times 10^{-5} = 1 \times 10^{27} kg m^2$
-* $L_{
+
+### Examples
+* ![image](https://user-images.githubusercontent.com/71202720/180655186-eb8d35cd-49d4-44cf-a9f2-58f8ad940c1b.png)
+
