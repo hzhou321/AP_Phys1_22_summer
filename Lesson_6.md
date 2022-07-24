@@ -10,4 +10,6 @@
 * Starting at $x=-4$ to $x=0$, how much work does the spring do?
 * $W=1/2 (kx) (x)$
 * $W = \frac{1}{2}kx^2$
+* $K = \frac{1}{2}mv^2$
+* 
 
