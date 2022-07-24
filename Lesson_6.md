@@ -23,3 +23,4 @@
 
 ## Rotation
 * $\tau=\Sigma{\vec{f} \times \vec{r}}$
+* $\tau = I \alpha$
