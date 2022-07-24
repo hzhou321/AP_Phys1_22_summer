@@ -19,5 +19,5 @@
 * All potential energy is a function of position
 * We call a space that has potential energy a field
 * A field asserts force at different position
-* E_{total} = E_{kinetic} + E_{potential}$
+* $E_{total} = E_{kinetic} + E_{potential}$
 
