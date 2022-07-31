@@ -41,6 +41,8 @@
 * When $\theta$ is small, $sin(\theta) = \theta$
 * $F = mg \theta = m a$ , where $a = f''(x)$
 * $x = L \theta$
+* $g \theta(t) = -L \theta''(t)$
+* $\theta''(t) = -\frac(g/L) \theta(t)$
 
 
 
