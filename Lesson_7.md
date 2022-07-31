@@ -17,3 +17,11 @@
 * $f''(t) = - \frac{k}{m} f(t)$
 * ->
 * $f(t) = \sin(\omega t)$, where $\omega = \sqrt{\frac{k}{m}}$
+
+## Terminology
+* T - period (sec)
+* f - frequence (/sec)
+* f = 1/T,   T = 1/f
+* $\sin(\omega t)$ 
+    * $\omega$ - Angular velocity, (radian/sec)
+    * if $\omega t == 2\pi$, $t = 2\pi / \omega$
