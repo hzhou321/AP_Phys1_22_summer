@@ -43,6 +43,9 @@
 * $x = L \theta$
 * $g \theta(t) = -L \theta''(t)$
 * $\theta''(t) = -\frac{g}{L} \theta(t)$
+* Conclusion, the pendulum position is a sinusoidal function
+
+* $\omega = \sqrt{frac{g}{L}}$
 
 
 
