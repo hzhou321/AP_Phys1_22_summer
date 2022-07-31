@@ -28,13 +28,13 @@
 * $\sin(\omega t)$ 
     * $\omega$ - Angular velocity, (radian/sec)
     * if $\omega t == 2\pi$, $t = 2\pi / \omega$, or $\omega = 2\pi / T$
-    * $T = 2\pi / \omega$  <--- [memorize]
+    * $T = 2\pi / \omega$
     * $f = 1/T = \omega / 2\pi$
 
 ## The Spring
 * $F = -kx = ma
 * $\omega = \sqrt{\frac{k}{m}}$
-* $T = 2\pi * \sqrt{\frac{m}{k}}$
+* $T = 2\pi * \sqrt{\frac{m}{k}}$   <--- [memorize]
 
 
 ## Pendulum
