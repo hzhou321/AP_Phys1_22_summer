@@ -10,3 +10,6 @@
 * An intelligent guess -- Sinusoidal curve 
     * $\sin'(x) = \cos(x)$
     * $\cos'(x) = -\sin(x)$
+    * $\sin''(x) = -\sin(x)$
+* more
+    * $\sin'(\omega x) = \omega \cos(\omega x)$
