@@ -27,4 +27,9 @@
     * if $\omega t == 2\pi$, $t = 2\pi / \omega$, or $\omega = 2\pi / T$
     * $T = 2\pi / \omega$  <--- [memorize]
     * $f = 1/T = \omega / 2\pi$
+
+## The Spring
+* $F = -kx = ma
+* $\omega = \sqrt{\frac{k}{m}}$
+* $T = 2\pi * \sqrt{\frac{m}{k}}$
    
