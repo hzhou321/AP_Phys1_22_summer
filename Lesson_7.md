@@ -54,4 +54,7 @@
 
 ## Exercises
 1. T = 1/2 kx^2 = 1/2 mv^2 --> v = \sqrt(k/m) x
-   
+14: find its equilibrium position where kx = mg,  
+    * x = mg / k = 0.1 * 10 / 40 = 1/40
+    * T = 2\pi \sqrt{m/k}
+16. s = 1/2 g t^2, 10 = 1/2 10 t^2, t = sqrt (2)
