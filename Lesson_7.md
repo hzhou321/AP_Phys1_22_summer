@@ -32,4 +32,13 @@
 * $F = -kx = ma
 * $\omega = \sqrt{\frac{k}{m}}$
 * $T = 2\pi * \sqrt{\frac{m}{k}}$
+
+## Pendulum
+* ![image](https://user-images.githubusercontent.com/71202720/182031738-18e9da21-a95c-45f3-b47d-ee081afac7f4.png)
+* Restoration force 
+* $F = m g sin(\theta)$
+* When $\theta$ is small, $sin(\theta) = \theta$
+
+
+
    
