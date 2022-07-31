@@ -16,4 +16,4 @@
     * $\sin''(\omega x) = -\omega^2 \sin(\omega x)$
 * $f''(t) = - \frac{k}{m} f(t)$
 * ->
-* $f(t) = sin(\omega t)$, where $\omega = \sqrt{\frac{k}{m}}$
+* $f(t) = \sin(\omega t)$, where $\omega = \sqrt{\frac{k}{m}}$
