@@ -52,5 +52,6 @@
 * $T = 2\pi * \sqrt{\frac{l}{g}}$ <-- [memorize]
 
 
-
+## Exercises
+1. T = 1/2 kx^2 = 1/2 mv^2 --> v = \sqrt(k/m) x
    
