@@ -46,6 +46,7 @@
 * Conclusion, the pendulum position is a sinusoidal function
 
 * $\omega = \sqrt{\frac{g}{L}}$
+* $T = 2\pi * \sqrt{\frac{l}{g}}$ <-- [memorize]
 
 
 
