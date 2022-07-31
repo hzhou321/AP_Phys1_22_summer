@@ -26,5 +26,5 @@
     * $\omega$ - Angular velocity, (radian/sec)
     * if $\omega t == 2\pi$, $t = 2\pi / \omega$, or $\omega = 2\pi / T$
     * $T = 2\pi / \omega$  <--- [memorize]
-    * $f = \omega / 2\pi$
+    * $f = 1/T = \omega / 2\pi$
    
