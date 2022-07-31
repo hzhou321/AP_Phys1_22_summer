@@ -1,4 +1,7 @@
 # Lesson 7 - Oscillation - 7/31/2022
+## oscilation and rotation
+* ![image](https://user-images.githubusercontent.com/71202720/182032534-3f5f94e4-2884-4d5b-a37b-2f24a265e0a5.png)
+
 
 ## Spring 
 * $F = -kx$, where $x = f(t)$
