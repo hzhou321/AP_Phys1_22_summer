@@ -20,8 +20,11 @@
 
 ## Terminology
 * T - period (sec)
-* f - frequence (/sec)
+* f - frequence (/sec -- Hz)
 * f = 1/T,   T = 1/f
 * $\sin(\omega t)$ 
     * $\omega$ - Angular velocity, (radian/sec)
-    * if $\omega t == 2\pi$, $t = 2\pi / \omega$
+    * if $\omega t == 2\pi$, $t = 2\pi / \omega$, or $\omega = 2\pi / T$
+    * $T = 2\pi / \omega$  <--- [memorize]
+    * $f = \omega / 2\pi$
+   
