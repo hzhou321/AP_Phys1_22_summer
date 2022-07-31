@@ -13,3 +13,4 @@
     * $\sin''(x) = -\sin(x)$
 * more
     * $\sin'(\omega x) = \omega \cos(\omega x)$
+    * $\sin''(\omega x) = -\omega^2 \sin(\omega x)$
