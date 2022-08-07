@@ -14,7 +14,7 @@
     * --> Energe conservation: T = P + K
     * Rotation -- Trigonometry -- Projection - Cosine
    
-   ## Planetary 
+## Planetary 
    * Planets and sun and stars rotate around earth -- a qualitative understanding -- seems correct
    * Planets including earth is rotating around the sun in a circle -- a quantatizing effort leading to this hypothesis 
    * People spend their life observing planets -- planets are doing their *regular* pattern, but we do not know how to describing them
@@ -23,7 +23,7 @@
         2. The orbit sweeps the same area per unit time
         3. The ration of square of Period with cube of the major radius is constant for planets --> a universal law 
    
-   ## The graviation
+## The graviation
    * A universal formula describe the motion of planets -- change of motion === force -- universal force
    * This universal pattern applies to all all objects in the universe, in the heaven or on earth
    * There is force between any two objects
@@ -33,16 +33,31 @@
        * a = omega^2 r
        * F = (GM) m/r^2 = omega ^ 2 r --> (GM) m / r^3 = omega ^ 2 -- Kepler's 3rd law 
    
-   ## Potential Energy and Field
+## Potential Energy and Field
    * Work = F * s -> potential energy 
    * Change in potential energy --> change in motion
    * Change in potential energy over distance is called "force"
    * Gravitational potential energy -- P_gravitation = G (m1 m2) / r
   
-  ## The point charge view
+## The point charge view
   * F = (GM) m / r^2 = (GM) 1/r^2 * m  --> Field  (GM)/r^2 * m --> inverse square force
   * Imagin the mass (M) is emitting rays of field
   * ![image](https://user-images.githubusercontent.com/71202720/183298359-181f0c2c-323d-466c-b285-dd38027f0342.png)
+  * So if we imagine the field is the center object throwing graviton outwards, then the density of graviton *has to* prortional to 1/r^2
+  * The field are be viewed as particles -- bosons -- they travel in speed of light
+  * The field travels in the speed of light
+  * The change in mass, change the field, and then the change propagate in the speed of light -- gravitational wave
+  
+## Exercise
+* a = omega^2 R --> ma = m omega^2 R  --> v = omega R --> m v^2 /R  
+* F = ma  = GM m/R^2 = GM/R^2 * m
+* GM m/R^2 = m v^2 / R
+* V^2 = GM /R
+
+* F/m = GM/R^2  -> 1/10 / 0.5^2 == 4/10 --> 0.4 * 10m/s^2 = 4
+
+* Circular motion  a = omega^2 r == v^2 /r     --> because v = omega r
+* Graviation force F/m = (GM)/r^2
 
   
    
